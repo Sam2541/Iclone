@@ -1,5 +1,5 @@
 python-telegram-bot==12.8
-urllib3==1.25.9
+urllib3==1.26.5
 requests==2.24.0
 google_api_python_client==1.10.0
 protobuf==3.12.2
